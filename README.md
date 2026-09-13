@@ -23,7 +23,7 @@ You will also need:
 Create a new ROS 2 workspace and copy this package into its `src` directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AdityaMhamane/Assignment-ACPS-.git
 mkdir -p ~/tf2_ws/src
 cp -r <repository-directory>/src/tf2Package ~/tf2_ws/src/
 cd ~/tf2_ws
